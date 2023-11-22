@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Singleton",
+  "age": 64,
+  "address": {
+    "street": "Egti Court",
+    "city": "Haojgaj",
+    "state": "OH",
+    "zip": "39123"
+  },
+  "contact": {
+    "phone": "(811) 480-6720",
+    "servicePhone": "800543286"
+  },
+  "birthday": "1987-06-26T15:39:10.097Z",
+  "ip": "14.91.238.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Doh pu ade jipoama kuhda ufuvu garoli foziltis ezfi batolgur bur mettetom pu. Uzselas vawjo wuz web lunuwhe no wom ibuzi wo uhicuf jevalsiw momtevpo gasab gipmad ud kutu gasik. Tonal jiwurke ke ul wiz ugoduom vonseni sebgo ujunega mivvu zonsag ubo usuguva papo oneid ufepawtos. Dujgag fu sib fu uvzab mumowot gopamim puvco ufoni ibosi kouz araheh nabe pead tifledak lehu fa bilad. Nirecju eme dob boj pauve luukaoho imi nijapki pelonnej wohego rococ lap wowega wumawcoh. Fab kus ufgef co bezu righucde for aso deif kuspe rof cuzbi ledafrib ribta. Iw notofik lod mab menciko woh vujagbo ri elcuckef hilce sucvo rakir.",
+    "bio": "Co igma zawikoz pog hazsimu mikva coc sog uributa done je kumawhi pu mujoozo. Gulutiv pusu coh de ihuisko eluadav zufa wagizo paszijvo wuwi di etfokma opwallu. Refoz nepojiehu dune buwlaira di gilrijvov kenupoor bituru rougu hos jalru ohi dapipewir boon se nevar fog. Fufaj bauh jartinom rili eg jud nabe da deer sunear gobzot ges me sogimmow dabsafwo akuubu bofbom. Wabeh bu vupera gukoroc binbombop mej hatvu iv iceni imi we heukju. Utubi ogo dof barnutufi ep zac kenhugkog da hu uno ni nuf nelomdob vaonmak."
+  },
+  "apiKey": "f13e4be118faa867eaa55e349e4925d2951fcaf2fc9bd003d45063ea243db25f",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
