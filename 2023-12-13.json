@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Wallace",
+  "age": 59,
+  "address": {
+    "street": "Sefuc Point",
+    "city": "Gilelvu",
+    "state": "FL",
+    "zip": "08843"
+  },
+  "contact": {
+    "phone": "(530) 547-4924",
+    "servicePhone": "800469423"
+  },
+  "birthday": "1999-12-11T23:34:50.465Z",
+  "ip": "113.166.243.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Ah foljid wolo miazo ji kir hul jigto utigaeb erku sohga iwigolwez hora rodi fatdije nubese. Ek jer davnufbe ef tustohuj awuumoto fickowuv hunjido kuewa tupdocap awadiri gahob. Mira ito vebpu azi biuduwa uz tu cu iga mujibfud lom guhcenej pe na. Kobfizico jo cuit jupof tabinvuv zovifdew ze acejobip ofifigo tow odu zawtirob paug oj torre. Zov tiv ow mu dapwa avagefoj ub guwobu ke jo mahol duv me. Akureriji li bucegec joja jiw pesrom aruvutkiz mur pib navivfih ajabe kogak sot laj mos fawif.",
+    "bio": "Usaewetas efmo aletifitu ahju ji asa opehazle afunok gakozwu pumosme waz nijhudupi buruccik nuk pe ref. Idunamwe imimaogu uge tagda hepiwli zap acozoibu utobac gijujda kudtaj motabcet ufwolro. Rowviju subjek bufas kordune sogetecu bizmate uwbez mipifvi zemuk juv nod mutlises tugon tejuhi ip gulko."
+  },
+  "apiKey": "32a783fab034b5b4c2c534000c65eb5d8cb9589d6ca92d03a6dff7d5a4050383",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
