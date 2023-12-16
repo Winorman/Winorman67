@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Burke",
+  "age": 30,
+  "address": {
+    "street": "Heloj Street",
+    "city": "Zebwuron",
+    "state": "NV",
+    "zip": "15648"
+  },
+  "contact": {
+    "phone": "(462) 441-9674",
+    "servicePhone": "800786831"
+  },
+  "birthday": "1992-12-02T09:43:37.756Z",
+  "ip": "145.168.31.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Savrulca jetu epiut hiizoj haphe rezieza odhosfid gem kemub diwezifo ihoakepov jaetuse hude negpa pasudip obme. He odpaj ne rirsasor ihkihma dovuk ofuvalcen ewhi jidni peduwaec cimido raticfof fa rivimjav fouf kazsivo idumohul. Kacehzot zemhe opo fisiize owfo igroruj meoke zaz duzniw huheniduj ajsaw lugzaoz saku vedcof jom.",
+    "bio": "Cosod lo tu hud fa erbihu ikibuole co wiwrit wol ufi ra. Wor badizmor zizeci koz sefoap wucef luf wourugor adpev lo ewizaho nohivajeh lusi. Oljukug ivu epvipiw zindef fova canilmi ejulug ofa decbu ru cajuis evumi pazme rac lepni junnuc. Rejnev uri vikowfut leecri keuto neihebu miblabrap faftis nek sa ziova kuza ejjuwiwi taagtac delofeju."
+  },
+  "apiKey": "e935b75015fe00bb0fa4fa49d3ea0be5d966d2986e60bed46c409663e5b79767",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
