@@ -1,0 +1,26 @@
+{
+  "name": "Alta Webb",
+  "age": 24,
+  "address": {
+    "street": "Redes Place",
+    "city": "Wuenhar",
+    "state": "OR",
+    "zip": "20905"
+  },
+  "contact": {
+    "phone": "(764) 317-4150",
+    "servicePhone": "800562388"
+  },
+  "birthday": "1995-12-13T09:05:33.169Z",
+  "ip": "188.183.167.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Kehlav os lowolen towihuge pojapesa vuvakpe nebicse guwfa kasuno zo lot ugi. Cez wu jisuwuhi ru juf mevok ulceni he orjahtow wah dewo efa bahsu. Fa de torado ajtuw fijco ma murorif tif isawo mugiama awunoka feci son dok iwovewed tawag aviige.",
+    "bio": "Juv kiup pi ha ho maap erkuh rehgado leeve ehagu tagdal osuc cu nukbi. Amiwetgi dalupo sodbabin ziznicidu ci da re wag higa kevuj eda widki meme. Kalungug su liz tiw jihus zivipom mijnoh etu vago foip jo iskouba."
+  },
+  "apiKey": "18a0064d298d1ae0ca9978014632f6a363b11bdd95f9bc7f99549bc76c3500c0",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
