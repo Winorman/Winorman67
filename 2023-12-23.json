@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Brock",
+  "age": 18,
+  "address": {
+    "street": "Zacso Boulevard",
+    "city": "Jonulib",
+    "state": "CO",
+    "zip": "99369"
+  },
+  "contact": {
+    "phone": "(238) 653-1825",
+    "servicePhone": "800778636"
+  },
+  "birthday": "1992-05-10T11:49:19.963Z",
+  "ip": "165.128.107.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Leh fofepajar gusgeleli koc ce ohcu tobdabo liaz wo enwil kasduze upapefzij. Ju sumencun pomzar idazig vavuwejo sodces be cortef bup ne egifiomu caslo kim bopuvog mehutac kejasvo kuur. Jenomig ece pokka huzbahhoc unuhu jiz cafruzte ehuwod cowukef pulepwe jihja fazufpo lokefvi.",
+    "bio": "Zokci oc tojguusa ofvacfa neig oseh wijo rahuul ubeholod je cosah mirjar vu mifitec jomvabo vicme. Fa minepa emohuc lazo galipo wuv ifoakirut bi cofiwij narvi bar tovat ek pefe. Osuele uk zazemeer ahakoud cu peeb sacru anape jokegura jutewiudu ewca ukujopu zawof weog bahi."
+  },
+  "apiKey": "0219419464198f1c11cefbceeb759f7d2345e03751ccc5bd5dcd2a88daca0891",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
