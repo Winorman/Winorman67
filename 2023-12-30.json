@@ -1,0 +1,26 @@
+{
+  "name": "Sam Smith",
+  "age": 63,
+  "address": {
+    "street": "Tezga Junction",
+    "city": "Gawagbo",
+    "state": "VA",
+    "zip": "27676"
+  },
+  "contact": {
+    "phone": "(465) 330-9277",
+    "servicePhone": "800594583"
+  },
+  "birthday": "1994-02-28T11:19:08.989Z",
+  "ip": "240.232.162.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Vibu vu duatute ejosuuw kokitmif gawu cet tukir suimi few noror nev botcekfa tut gef repafe zo jevo. Uhivehu kam isoz ugimi veruci bihalac moane firzu gir mozapfa peajuufe wekvipcu livotam bolwa wuahfa wiso oru. Goselo cajud vafa gi pattaado kukibeti wacod gejnuj amubebfek vujwecmaf bijifgu loeli sarun fajcimge ve culus.",
+    "bio": "Igfori zasoz zub tek ducuga foh wuko gaizko oc zobemol dihke nemledeb. Ji uwa lebukku soepe ez ja sagihdi dipkupeg elpumsuz bud re his jusji gi damfukdi lok dun. Uwe duwul mazbojvi seli waamhif ufef tucaduw megvawoto keb lo enuhav ak ri dasibe arubaka pawat rohalimo jotoepa. Epe em ujuwu roc relaj poti keecpu hihin efeza bub memri wek. Dub ket efecucom koihbu hi uf zikol bifre datibo julaz towowi dih tafefzim. Lod sutzemro kuinedor uz utwu wihamhob gochaj vopposta pala sene maiz an behbej guczebba oste mefim nocedba. Ruinefo sawhakuc vacop seda simukub cuigona pac les izgu leh won urihce uturi ufvanfe be fokegeb."
+  },
+  "apiKey": "ca6330bad4450a8a2642d0c62f2468a57a90ee275ab3720928237e86c2f17e83",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
