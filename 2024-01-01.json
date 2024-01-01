@@ -1,0 +1,26 @@
+{
+  "name": "Maurice Myers",
+  "age": 34,
+  "address": {
+    "street": "Bulovo Parkway",
+    "city": "Lafceras",
+    "state": "WA",
+    "zip": "01826"
+  },
+  "contact": {
+    "phone": "(726) 910-7874",
+    "servicePhone": "800845354"
+  },
+  "birthday": "1963-08-07T00:21:37.442Z",
+  "ip": "24.113.240.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Bak ej jikmulu sarwideg wawadu arocadmej vil pific lu febaape biswewjob la ebtan ulgehez. Rolta kih urilaul bofok mak uputevif mausobe hojvo punliphej sizo uga ni ci ra. Fuvwulelu ivopemut waidutu foh gilaze ifu vo bifap pebaz kibaj cog ca cigwozba gacu bad.",
+    "bio": "Ki li ebemi bug jeteriv dipci hiv po tofka ig jodu fufgitga ziapuah lu je ceraju hu sigijueh. Datijafo higvopa vabide ucpi duhro jevhoz fef amiheev peg re tet ice visomu. Niukas abwurnod enauj gorosaelu zabizut carcapob teclob nuftaghaw posmobaj sockub sazsecmi wowog topeha. Buz votarefa mudu cedabi abi kior putconef fi guhecu ukijacus ma kunru pucvirehe ililo."
+  },
+  "apiKey": "aec639af1b82a7389ee9bc0cf527e355980ccb207e07ea1fa51d899927dee7a4",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
