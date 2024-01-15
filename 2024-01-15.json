@@ -1,0 +1,26 @@
+{
+  "name": "Harry Porter",
+  "age": 18,
+  "address": {
+    "street": "Kite Street",
+    "city": "Vareaco",
+    "state": "VA",
+    "zip": "80933"
+  },
+  "contact": {
+    "phone": "(510) 719-9013",
+    "servicePhone": "800955472"
+  },
+  "birthday": "1995-02-11T07:02:15.061Z",
+  "ip": "156.249.220.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Haba giron av camupeli ac ibuju ru gif ricukwu ufo ji zoro giubso wu. So imaveisu efoebura ni vehcu cac otiase zahinho ba tejam bouji zorwuk ujjogla zelohpe redju. Fongisa idi silun ufvikoz uc owluca if tucdefopu ninuscut geblu ceszuw goiliku ucenewuk zevaj carova mu za. Gatu sagrupig jopika ficmupiz lehiwali oketenpak ve woako giufofuk ribwukeh lok divwag puzelse mu akuiwo mehda lo holupe.",
+    "bio": "Komboso ofopecur corpotaf ikelaz vel ebavo efimbo kegag bowa ez ompoj lag uwdil uj jofa. Evjifgum looveze cigsufet cuwcasu il kigpig titete su bucwu muhcib ubiketace bo duh tudebmim piweljeh ow. Pekew raug sew liofi gucdop ojaleub juw nut weme mi ukoporo epezedi fireev neuja izofolav vatek os ko. Vu re im pevawgak ma ibrihat facogeigi ve uracais zivmepja pak sejitiefi kazibpag hovolcu liaveb wom derce kuvrajib. Jur zefijor iba oga lipro pos okvegbu diabi dotasris buva doh takvo mutim meda ol jakij wascil lasehi."
+  },
+  "apiKey": "af09ad96cc16c830ba81a1e588913a3a2d5d76c9673476e40b1b4a2d5214e059",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
