@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Armstrong",
+  "age": 43,
+  "address": {
+    "street": "Nohvog Place",
+    "city": "Ikeriim",
+    "state": "AL",
+    "zip": "89204"
+  },
+  "contact": {
+    "phone": "(901) 497-4774",
+    "servicePhone": "800762286"
+  },
+  "birthday": "1983-01-05T15:56:13.813Z",
+  "ip": "120.128.155.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Lutom ume ewde ji cimep zeelca holun uhiurukaw fofiwum pu nipcetuv cohouj lezja loctivmus zicab. Avu zobi gopcuw zocvafhit gomkevzeh mofeov ehaz boc fig fu iloato ga wohnim nomluev. Eduka asila we razde la avmizu ka ebapuazu fed kam iro lamcawzi wocih lovuj ari suj kaeh. Fa lag tifkebu uhaun ajbago aswec zolegiega jaz peka heaca ladzi ri sekiv kus iho jooci fig. Niapa ujviteja ger pi sa il fer pej tanto kelveswu fib wotcuf ize. Si feedovew ge te eg tutog hivu luveta bivek enjeme eduwe awitij tifpalemi seb.",
+    "bio": "Wo gavdad ijoacca fa rawav uro nute laf ata norul jalkonwo vuw re ozpaklu lege. Umuila ekofa galajsej ciiwi liho vi japostac zanihfi fo wiwrosoc de amfip higukbi on haf ir. Ga hut rajvufo fapozoonu hiler jahpekez mu gu fijfuasu naohuwo jedva vakij. Elraz ugiukzom nuk puoge jun apega ed jekal zu mi vupilupu salu tud wonmije puvsulro to folu ak. Geflo zi tiv imu sobamac losguku lazrih ko ubievo pok hihivo meme jil sok ibvukvop zunuv opauksi. Did buv nuhaz zona dazlewpe heoru jibti faat tijese edibo li joczubul jeecote. Agowo olohif ezeval agumar cozok lunboudo amiiko ku docoja ti li aceutevul bozaot ireas wocto er."
+  },
+  "apiKey": "0aa4becd8d361540ef84e4f63b468ef0fb472da6d61ae7f009345d694b6f33ac",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
