@@ -1,0 +1,26 @@
+{
+  "name": "Marc Kelley",
+  "age": 53,
+  "address": {
+    "street": "Muco Circle",
+    "city": "Izulepez",
+    "state": "WA",
+    "zip": "63083"
+  },
+  "contact": {
+    "phone": "(624) 525-1365",
+    "servicePhone": "800315963"
+  },
+  "birthday": "1964-05-28T04:09:36.778Z",
+  "ip": "89.27.214.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Acok umti ib fo evwa hudi ineag imlew ratafwat se sojdi wabdotug wecik. Noedvo tip oh we mu re rucfif vos fi epolakze giwug pimriman ki tavid be arbaabu. Wewviz potic me ti livkuvuk noisodu fukaf asacaz fotpoc jameh ujzi ra pindazdi fuvoh. Ke gav lueco veam koputej dew ecfovmuz hap udanla bu rudo lub pi hiweko uzzazic ise jafecolo. Nawe evojrab molci wum gugades tihowbo al hekwor acla la nuduvte hujipa tedajowe kuvocel nujup otadewlel ow.",
+    "bio": "Ke gazag tofuh we nudo vugsair ehuveog ji gokgeji tewjuh rontig namfonim ape lekcek ugocilu rigu sata ru. Bu jofot ho fehbatju gisufa mecugki bafad so zadajku muhal va wonvaso wob wo wu. Ah imemafce fad zot vat nib uj iz vir nevaswo civlinob ececilih uj anme."
+  },
+  "apiKey": "e5c1a956e75fa326ca10c4e590f4622018567ee7dfc21f7fd314e3a09aff661f",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
