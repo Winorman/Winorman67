@@ -1,0 +1,26 @@
+{
+  "name": "Stella Goodman",
+  "age": 49,
+  "address": {
+    "street": "Hihha Park",
+    "city": "Gedwawig",
+    "state": "FL",
+    "zip": "96426"
+  },
+  "contact": {
+    "phone": "(519) 567-7565",
+    "servicePhone": "800942767"
+  },
+  "birthday": "1997-10-12T18:00:20.997Z",
+  "ip": "87.242.6.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Ezuzini paboso gohlohnud johat ge fuz nohu foav ibizim fas nacuz ow. Vosrewkag zo bilbehej pozito weahi unheg viev gur ganzeku delpavfop vagomih amevi ho vud apohat ehigapil hu. Cutisom jitesud de wowalri manisho biwbe puepemu futejri ticso ud loow diceleko finov. Wusgemoce zunizsus zekibdof edop ikiikemat jenu mesu zidhihap wiz se sat unme hotesdon in copujig le. Eb nu jiloj co fa fu safogmen jeneri im rucmot adpubuz eti utoizepi tu ak ete sepapin apudkuc.",
+    "bio": "Jirivip josvahes suagagi tiawu sibraw genrudej gewem lulbuc acgew polvun pijir nig luri anic zuoc ecacovez dimde jul. Onenidif lo dacac gamniv ipo zadnavu tilletad nonubpaz hav jeluh piduh nobzi zagtel ewuinca ra af wehho gesfufe. Gavvije la epe uca rurij gelcubi lieb ace bonkefaz zef cagzuc pucku. Ito tap unsonwed dep gid fijaploh muvifu ne wu mid jek pirefmu ciezte ta baclur no isa dir."
+  },
+  "apiKey": "c19b5f8a6412f7beaf660b0456f768d27227e8a07d20f92751b4583ea83bdf4d",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
