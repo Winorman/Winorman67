@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Berry",
+  "age": 32,
+  "address": {
+    "street": "Rugje Highway",
+    "city": "Ladnefi",
+    "state": "CO",
+    "zip": "62098"
+  },
+  "contact": {
+    "phone": "(778) 982-6854",
+    "servicePhone": "800119627"
+  },
+  "birthday": "1981-06-06T17:02:47.623Z",
+  "ip": "172.72.36.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Zoz jic cofoj rokmal sew noulu dut fepvisecu cefmev evoudami kup daevuba idu epi rufhaj rob. Lulub cek sigweze dicapu wefew cu jokif es jibfo lug fakmecbi dastir owvulol kuja rul hiranub. Oza fooj dico ni daza wiuku hehserit jornu ataweafe sesi fo tobivnor utipogoj enor bek.",
+    "bio": "Pekogho vuc jowuhi vi fe kuc pever nuhhida fuvi nazucco ned du. Det daggej bu koz pa sov vu huik megujran apca impi kad jolume ercewulo huufizi ogufizfak. Bebiloj uwpup sopivuk gazkuf icfaw one pahzi dife joisihuv lohpiwku giaze waijmi ok efo ugpo usunabih koaz eweuf."
+  },
+  "apiKey": "5ccab97bc8dbc52c353a149bc32a3fef70552e149f910d55be33d2f6e965d852",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
