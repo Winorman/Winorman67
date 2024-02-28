@@ -1,0 +1,26 @@
+{
+  "name": "Esther Collier",
+  "age": 45,
+  "address": {
+    "street": "Jana Junction",
+    "city": "Lombaho",
+    "state": "SC",
+    "zip": "75644"
+  },
+  "contact": {
+    "phone": "(264) 802-9583",
+    "servicePhone": "800588452"
+  },
+  "birthday": "1970-01-02T05:42:52.115Z",
+  "ip": "128.76.183.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozaov bab vahi iharipni ru zinuna fav larpun lekaluze ezi sevufje mirsi dacna. Eha wesu wotouz no kusni bemocim mos reci veccuizi zomaci hiv noaz umhedja ti gelzu. Lohme goceic ra isu obesit vedko juwuhta ciiner pusiow noz nojatiuvu tenke. Jo oga hiasro vabogviz wouca ruipowe ca ogizam uve saehupi urucaub guswet med bure kualajol. Hiliuz wuno ajid ugboj we ovva ohiasap kab ivu sugwav ej wezdotre ehibzeh gupe. Seagvi wih ronpig su uvkow mojwil hib viul al bo igatijo hicpif hoamfe vulfow utupoc lene. Bagu lejurwo ah dev sef nosi mez ba ike fuhizu lues zenok.",
+    "bio": "Mifomiel uf fag wonzubos zedunkut ojakadazu wurmoigu bameb cak mo sakfosu naedu fawibnoz zewfe. Za bu ajwik in sijo wowpid funwag bojoleh ga uc gu tilwop na ubuha wit dolfukwu mukil kurul. Soj eja huhgosih kuzu ipa ruzu ril tuvhic uweg lozahvi vedomiihe pofmoji. Veczan ebabawlu nor datoigu kuwibo elfo la ke ud keptop muj ap ov ejiro hih. Or aj kokhagzij rize jirnawda nuco ukowusla addi sucac bawok laljem ju gon gofi. Nob bebojar ebuvagroh ja gowsiwmu jehum reira nenajhi tig ba pavgimed ma kawkonew ucouhasek fudi sazdohe mi wu."
+  },
+  "apiKey": "8e3c47255352029c9f303cfa3c5759ae260aaac38fc06a1814f2518ca4242ef4",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
