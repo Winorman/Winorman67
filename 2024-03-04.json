@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Castro",
+  "age": 46,
+  "address": {
+    "street": "Pazet Road",
+    "city": "Torimid",
+    "state": "CT",
+    "zip": "12445"
+  },
+  "contact": {
+    "phone": "(901) 383-9486",
+    "servicePhone": "800963882"
+  },
+  "birthday": "1991-07-03T12:15:42.080Z",
+  "ip": "162.181.236.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruc nere ran ja wigjigted bowjakob cib gupcace fe kuefi vuj pomem koldof ep fulte nore puf behes. Nos eh ga nuh moc suckelah hojowha hir so pav ivomusli wodo anmu guvo kewow ukoemes epnaw. Ti gelzecgi iltec fidcibod mafogne zagika higet sinfehug zolu ejum azigad bopeof lebguhoz.",
+    "bio": "Majol sawzef salecke wiowmo dusraz eso be ejzeb jo rocpor tinmop ifutesris dubouno kiof. Lap jovseso buej mijzusdap uf guz iruro pap fuufrud zif gactawiv ceellok. Igi veucos junet arnid ki tuc rud pe rodzuc sawohohe pos bicola apo zeewipa lite padwa nikhuc if. Mej algektub mehle hukimec hini muwokjap geruv oguwet wevfe gigeduut vuwga za hicfivij."
+  },
+  "apiKey": "25dec27c310209fe3deee0d0008f80882ef4d8c2b274d68c7dec3896101976c9",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
