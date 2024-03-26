@@ -1,0 +1,26 @@
+{
+  "name": "Hester Robertson",
+  "age": 19,
+  "address": {
+    "street": "Elebu Drive",
+    "city": "Nunfalak",
+    "state": "UT",
+    "zip": "85933"
+  },
+  "contact": {
+    "phone": "(900) 831-1029",
+    "servicePhone": "800324456"
+  },
+  "birthday": "1996-09-20T12:52:02.370Z",
+  "ip": "124.32.237.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Lijhim zuhruf makos giisoli lozogidiz lootsu juozguz but riszez won rimonos giamnu mofan. Cojzip gulaev meg ifijafeni fikmap ugla sucnuzneg os ku iwoh ri eb fero ajma versi duguji. Lonu rupmenaju dezli urweim hudwi ewewo ca wah zojuk fuisa ca adfu kaus goglagpi rutej li ru. Gimanifos revotado zojet samacin joluwow pofcad mudba bidabvac asbuf tit kevhajca ro. Kanutoh bedwuce finiwmat hel sub tisuba vivod abo izazi fega teog if up wilunpi jekeh ce verapca wouli.",
+    "bio": "Cibpoflew iwaukka leezaama wufimfi apluke ago ubuwesef tet tokidnub loefsu wudoli upvava cehoifo. Zafus ulpi re gi lekgarcum cekmouvo sozez am guhawet buzwahas ubibeb fag hotguzwog wotkicpi hun. Gigo zalvu fu di aw gesolehu ecaji bougi fe ano ter ite zehfu rel zamne. Pumiv di gek kon adga hohha bakug ikcojfe ese lo pe ba zav ja wu duhefow ukoufeih wiowdun. Moznu ra ti fa naofo fekvelo mi kerpuc livic jarvor lo bahvoho guz cigjin hapow vidloco. Tizfosce navula ag ci ga biwazus rakiwjes hucog up it hozoeto bew re rewiwu esupejlac kegfik."
+  },
+  "apiKey": "d7e90361920af4952c58705b0796517502ba5b690cf87342ba6ebbc293bc851d",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
