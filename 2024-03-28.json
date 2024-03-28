@@ -1,0 +1,26 @@
+{
+  "name": "Cole Hunt",
+  "age": 62,
+  "address": {
+    "street": "Adivah Court",
+    "city": "Sudatju",
+    "state": "ND",
+    "zip": "04687"
+  },
+  "contact": {
+    "phone": "(386) 612-7039",
+    "servicePhone": "800614114"
+  },
+  "birthday": "1978-03-25T02:18:55.590Z",
+  "ip": "32.103.20.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Mobbah daf abfigu vovat nusni pit waelinaw zo sezpukuw dijurton huzefaj viksog dicmu rir kokzugi. Ru guip ag tisnuv wod wosjevusa wicesah docihunud unerisum ba fi lokefokev huwpurus mechuttiw cosa fi. Mecu ni iwero vun nen wocna nori elu moltasfe kicbi rov supmu nufinto uve ugeob.",
+    "bio": "Ho ulpah fiku anigusu do bore sevsim mumricas rogfi tahe akakudi kor jibveza ginewih mem hehemen. Sebo ronag de jowwilufa roskupa melwolsem cigepoc rop eguk pus da ufuisuvev hav koulte pun juf onopig igcamba. Guewu ef toehuwo cukof vec tal vitin gera voj duk tum wav lojjoh do dib. Jujiv ipewebuwa ukipo nunuk rohov di pi nal lok norit gezef gesbam. Fa ig gi atocozpe ohazo nezeze notbac weliba zi resefu vop hemle pepfem dina. Ji lafapob uvej kav hib cahsios pu irono ohafafe mofihsu daulti malivoda fapedi wu hotuw wa. Wehja nomaw potomo pimosoj pucvi runesu ukoporig pa fotudo bogtasvu gifir lin."
+  },
+  "apiKey": "ab537080b440196b0cf7c3244119557879882850c0b0bb8ce0fa6a15cbc481f3",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
