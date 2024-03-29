@@ -1,0 +1,26 @@
+{
+  "name": "Austin Mack",
+  "age": 34,
+  "address": {
+    "street": "Tongi Highway",
+    "city": "Rappaepu",
+    "state": "IN",
+    "zip": "18099"
+  },
+  "contact": {
+    "phone": "(716) 745-6500",
+    "servicePhone": "800255283"
+  },
+  "birthday": "1981-12-22T03:39:55.066Z",
+  "ip": "88.245.235.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Hof haz sufebtu sopik hu kovafaf bib nakoczu ajoto gofbupit molvo we hi hu nuopu aduhikgo. Lir pevej rilave zasle topheipu ipo redgices bi po fas gar cidin sej ugezi fi zu jool embod. Gihun in if jowusde tu huj iraakki nancofazu rimira ir buuvono inpe demus vafovim wibbe canze. Umawannon ca deli anpedful icdusdu widwa recno feop pu mig caepo nafi no elipujip sawa jahis. Lunre fupgawve cucu olsok gan hic uvudagup me tudup arelokwac bab tiajva higitjo ri wo. Onsus wivha ovacipve daela elkipuci goddima ima caofaofa lekize lu ewfika diuv. Mehtoz giubu hiz uphaw ma nehi gasvamu igujuve to huzon funde beavefo ahigili burwogku wi.",
+    "bio": "Gecvapa pi of haenfac eseazihuz iluepimi pubivto lejfid duhti da honmoun feco. Mibgazuf wefukro tipguf oti jamsatmiw toj hikfe soh da he misenuped dub inonis. Vuido mahujini neliwa taw kik varcisez nowweb cotti sevsorsum cit lef facomit segac ci louge erecew. Ji kojoruh woip zapigisu wansose ca dugmigud sogjog ohi epa lis lomdaso li ki. Kaloofe kak wuz jajnow muoto huz difuwu ihage horpebu ujilaro fid faz uvjopas jac gocopfab jakito dew. Ses wiv vun iko igiesce go bugbefbip hipeztos lizono ipuabih uzuhiaf jesjisju ilrafkub cape pockadboj jazufi."
+  },
+  "apiKey": "b27487c390d0ce162ea6b322e2248ba43391e75c2938ab43b0943cf8b5c23e03",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
