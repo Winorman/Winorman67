@@ -1,0 +1,26 @@
+{
+  "name": "Lela Wallace",
+  "age": 24,
+  "address": {
+    "street": "Buka Way",
+    "city": "Jefhonvi",
+    "state": "MA",
+    "zip": "05821"
+  },
+  "contact": {
+    "phone": "(982) 798-4118",
+    "servicePhone": "800683127"
+  },
+  "birthday": "1995-04-01T09:51:20.639Z",
+  "ip": "215.138.131.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Roz tidtoc pohciduj kimrecsob ju tuviz hegmedu bo ke vu nuf dij lopho tuve mejelgo. Ictilek kikwucoc piblahe bok jaw dutesu ru camsol wu zivmez pac sermukil. Vufokca jo kew gabe mefdiva aj wakkesaw tedopu ma do zivermu ucba owe heba micig fizi tigu.",
+    "bio": "Osu zipza gavuj otupu ge umsag lorjoju ame tut uni iziwomeb savauw heftijis bevulwop udoazo agini bikanoj jahefef. Bin lawzu wacgipu vankeece hag gewgu vow tukaspi iz ajakec ri hoef namorev leuvlu sozicew. Vo tanucoj ri nidizatap zok dojmah weeta fazufbid custohpeh kowe guggirov zololmi ler innut ihenesoh hugiko kumok nubiv."
+  },
+  "apiKey": "042a33269fee6491384e2b2ea81876f282f0a56aace0a30526509e8774288bd7",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
